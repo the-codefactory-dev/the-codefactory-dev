@@ -1,4 +1,5 @@
 ### Lyndon Michael
+Mood right now: so many things to learn... so little time
 
 - 🔭 Day Job: 
   - AWS Cloud Architect
