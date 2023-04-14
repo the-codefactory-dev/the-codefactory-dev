@@ -1,4 +1,4 @@
-### Lyndon Michael
+### Lyndon
 Mood right now: so many things to learn... so little time
 
 - 🔭 Day Job: 
