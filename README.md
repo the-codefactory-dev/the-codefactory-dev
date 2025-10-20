@@ -6,7 +6,9 @@ Mood right now: so many things to learn... so little time
   - DevOps Engineer
   - Backend Developer (SpringBoot)
   - Data Engineer (Spark)
+    
 - 🌱 Currently Learning: 
+  - AI/LLM-Assisted Solution Architect Workflow
   - Machine Learning and Data Analytics
   - Software Architecture
   - [Random Stuffs](https://github.com/the-codefactory-dev/the-daily-learning-project/projects/1?add_cards_query=is%3Aopen)
