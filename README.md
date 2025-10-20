@@ -17,5 +17,5 @@ Mood right now: so many things to learn... so little time
 
 
 App Ideas:
-- [Bank-as-a-Service](https://github.com/bank-as-a-service)
+- [Bank-as-a-Service: Cloud-native Core Banking](https://github.com/bank-as-a-service)
 - [Xplorr: Let the Universe Decide your next Destination](https://github.com/CodeFactoryDEV/app-idea-xplorr/blob/main/docs/technical_implementation.md)
